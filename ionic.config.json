@@ -1,0 +1,7 @@
+{
+  "name": "tabs-slot-top",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
